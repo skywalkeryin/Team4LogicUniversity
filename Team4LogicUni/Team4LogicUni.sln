@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicUni.View", "LogicUni.View\LogicUni.View.csproj", "{0B526539-0AD4-4DD3-9FB9-C247817CAFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicUni.Controller", "LogicUni.Controller\LogicUni.Controller.csproj", "{39C0DFED-47F0-491A-A0FB-62A5855EE0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicUni.DataModel", "LogicUni.DataModel\LogicUni.DataModel.csproj", "{266B8EDF-502D-4542-A2AC-8475F589D015}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LogicUniService", "http://localhost/LogicUniService", "{60B1240A-CC36-4D33-A319-BD88EEDC038C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{39c0dfed-47f0-491a-a0fb-62a5855ee0db}|LogicUni.Controller.dll;{266b8edf-502d-4542-a2ac-8475f589d015}|LogicUni.DataModel.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/LogicUniService"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\inetpub\wwwroot\LogicUniService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\LogicUniService\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/LogicUniService"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\inetpub\wwwroot\LogicUniService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\LogicUniService\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\inetpub\wwwroot\LogicUniService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B526539-0AD4-4DD3-9FB9-C247817CAFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B526539-0AD4-4DD3-9FB9-C247817CAFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B526539-0AD4-4DD3-9FB9-C247817CAFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B526539-0AD4-4DD3-9FB9-C247817CAFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C0DFED-47F0-491A-A0FB-62A5855EE0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C0DFED-47F0-491A-A0FB-62A5855EE0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C0DFED-47F0-491A-A0FB-62A5855EE0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C0DFED-47F0-491A-A0FB-62A5855EE0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266B8EDF-502D-4542-A2AC-8475F589D015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266B8EDF-502D-4542-A2AC-8475F589D015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266B8EDF-502D-4542-A2AC-8475F589D015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266B8EDF-502D-4542-A2AC-8475F589D015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B1240A-CC36-4D33-A319-BD88EEDC038C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B1240A-CC36-4D33-A319-BD88EEDC038C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B1240A-CC36-4D33-A319-BD88EEDC038C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B1240A-CC36-4D33-A319-BD88EEDC038C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

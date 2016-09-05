@@ -1,0 +1,9 @@
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Debug\LogicUni.DataModel.dll.config
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Debug\LogicUni.DataModel.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Debug\LogicUni.DataModel.pdb
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\obj\Debug\LogicUni.DataModel.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\obj\Debug\LogicUni.DataModel.pdb

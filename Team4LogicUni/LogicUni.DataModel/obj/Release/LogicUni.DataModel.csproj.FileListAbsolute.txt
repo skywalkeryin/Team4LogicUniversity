@@ -1,0 +1,10 @@
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Release\LogicUni.DataModel.dll.config
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Release\LogicUni.DataModel.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Release\LogicUni.DataModel.pdb
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Release\EntityFramework.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Release\EntityFramework.xml
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\obj\Release\LogicUni.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\obj\Release\LogicUni.DataModel.dll
+C:\Users\E0015800\Desktop\Team4LogicUni\LogicUni.DataModel\obj\Release\LogicUni.DataModel.pdb
